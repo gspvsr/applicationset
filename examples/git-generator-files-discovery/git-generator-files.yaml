@@ -15,7 +15,7 @@ spec:
     spec:
       project: 5349c3f1
       source:
-        repoURL: https://github.com/argoproj/applicationset.git
+        repoURL: https://github.com/gspvsr/applicationset.git
         targetRevision: HEAD
         path: "examples/git-generator-files-discovery/apps/guestbook"
       destination:
